@@ -37,10 +37,10 @@ Technical Skills
 
 •	Communication: Improved communication skills by presenting complex financial data in a clear and understandable format.
 
-# Continuous Learning
+## Continuous Learning
 
 •	Adaptability: Embraced new tools and techniques, showcasing adaptability in a dynamic work environment.
 
-# Conclusion
+## Conclusion
 This project not only allowed me to apply my technical skills but also provided a platform for continuous learning and improvement. The experience gained is instrumental in my journey as a data professional, and I look forward to applying these skills in future projects.
 
